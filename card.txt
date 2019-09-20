@@ -1,7 +1,7 @@
 Lightning Strike 
 12 
 S 
-Creature Instant 
+Instant 
 7115) 
 Lightning Strike deals 3 damage to 
 target creature or player. 
