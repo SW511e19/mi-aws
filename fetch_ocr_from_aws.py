@@ -2,7 +2,7 @@
 import boto3
 
 # Document
-documentName = "20190920_135440.jpg"
+documentName = "20190920_143732.jpg"
 
 # Read document content
 with open(documentName, 'rb') as document:
